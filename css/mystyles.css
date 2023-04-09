@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+  }
+h2 {
+font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+body{
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+li{
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+a {
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+  }
+.myNav{
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
